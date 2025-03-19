@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "cf46ec68-0907-4f5e-af44-94f9ef56e667": {
+      "label": "Parent + Child Heebee Jeebies",
+      "is_offline": false,
+      "file_url": "https://www.ubu.com/media/sound/spt/SPT_04-Parent+Child-Heebee-Jeebies.mp3",
+      "duration": 57,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A poem written and performed by Michael Basinski and his daughter Natalie. They argue back and forth in a conversation, alluding to themes of overbearing parents, maturation, and the subsequent role switching of child and parent as they age. "
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Parent + Child Heebee Jeebies",
+  "created_at": "2025-03-19T01:44:53.762Z",
+  "created_by": "Jlubrick",
+  "updated_at": "2025-03-19T01:44:53.762Z",
+  "updated_by": "Jlubrick"
+}

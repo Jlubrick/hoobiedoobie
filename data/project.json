@@ -1,1 +1,113 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"Jlubrick","is_private":false,"title":"Parent + Child Heebee Jeebies ","description":"An annotation of the Michael Basinski poem Heebee Jeebies. ","language":"en","slug":"hoobiedoobie","creator":"Jlubrick","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Background","color":"#ADFFD9"},{"color":"#F7ED78","category":"Form"},{"color":"#88C9F2","category":"Extra-Poetic Sounds"},{"color":"#C195DB","category":"Performance"}],"tags":[{"tag":"Transcription","category":"Background"},{"tag":"Context","category":"Background"},{"tag":"Identification","category":"Background"},{"tag":"Definition","category":"Background"},{"tag":"Caesura","category":"Form"},{"tag":"Rhyme","category":"Form"},{"tag":"Meter","category":"Form"},{"tag":"Verse Structure","category":"Form"},{"tag":"Speech","category":"Extra-Poetic Sounds"},{"tag":"Ambient Noise","category":"Extra-Poetic Sounds"},{"tag":"Audience Sounds","category":"Extra-Poetic Sounds"},{"tag":"Technical Sounds","category":"Extra-Poetic Sounds"},{"tag":"Pitch","category":"Performance"},{"tag":"Duration","category":"Performance"},{"tag":"Amplitude","category":"Performance"},{"tag":"Timbre","category":"Performance"},{"tag":"Tempo","category":"Performance"}]},"created_at":"2025-03-12T19:13:29.638Z","updated_at":"2025-03-12T19:14:00.398Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "Jlubrick",
+    "is_private": false,
+    "title": "Parent + Child Heebee Jeebies ",
+    "description": "An annotation of the Michael Basinski poem Heebee Jeebies. ",
+    "language": "en",
+    "slug": "hoobiedoobie",
+    "creator": "Jlubrick",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "color": "#F7ED78",
+          "category": "Form"
+        },
+        {
+          "color": "#88C9F2",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "color": "#C195DB",
+          "category": "Performance"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ]
+    },
+    "created_at": "2025-03-12T19:13:29.638Z",
+    "updated_at": "2025-03-19T01:44:53.908Z"
+  }
+}
