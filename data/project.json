@@ -9,14 +9,20 @@
     "github_org": "Jlubrick",
     "is_private": false,
     "title": "Parent + Child Heebee Jeebies ",
-    "description": "An annotation of the Michael Basinski poem Heebee Jeebies. ",
+    "description": "In an unconventional form typical of Basinski's genre bending poetry (both visual, written and performed), Parent + Child Heebee Jeebies is a continual, conversational poem that is performed by Michael Basinski and his daughter Natalie. Though the poem is only a minute long, it contains 60+ lines of short, overlapping dialogue that initially shows Michael as a protective father expressing his concern's about his daughter's wellbeing and the choices she makes. By around the 24 second mark, the roles of the two characters switch as Basinski is now at the receiving end of Natalie's concerns due to his old age. Basinski engages with the similarities between a parent chastising their child, and the kind of care an older parent receives from their own child in their elder years; the mirrored dialogue and similar dispositions of both are in itself a commentary without even delving into the implications of each line. The result is a brief but lasting impression of the uniqueness in how the poem is presented, and raises questions of how read poetry can break it's own conventions to become particularly interesting and evocative. \n\n\n",
     "language": "en",
     "slug": "hoobiedoobie",
     "creator": "Jlubrick",
-    "authors": "",
+    "authors": "Jonathan Lubrick, ",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "saamturner",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -128,6 +134,8 @@
       ]
     },
     "created_at": "2025-03-12T19:13:29.638Z",
-    "updated_at": "2025-03-19T19:57:07.028Z"
-  }
+    "updated_at": "2025-03-22T16:04:25.061Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
