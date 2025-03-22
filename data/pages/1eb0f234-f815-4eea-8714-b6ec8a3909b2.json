@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Playing with the Conventions of Form",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "playing-with-the-conventions-of-form",
+  "created_at": "2025-03-22T18:40:58.247Z",
+  "created_by": "Jlubrick",
+  "updated_at": "2025-03-22T18:40:58.247Z",
+  "updated_by": "Jlubrick"
+}
