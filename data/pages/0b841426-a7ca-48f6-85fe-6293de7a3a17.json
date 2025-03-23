@@ -11,7 +11,7 @@
           "italic": true
         },
         {
-          "text": " Marit J. MacArthur argues for a link between the often neutral, drab, and otherwise monotonous voice given to poetry readings, and the anti-expressivist ritual readings of religious churches. \"In an academic lecture, as in a poetry reading, an understated manner of speaking may aim to focus the audience's attention on the subject matter at hand--the way that a religious ritual intends to focus attention on a sacred text\" (MacArthur 39). A large factor in their similarities is the \"...avoidance of theatricality-justified by the implicit belief that an understated style implies sincerity...\" (MacArthur 41). Whether or not the untheatrical readings of religious ritual resulted in actual sincerity is up for debate, though it's influences have penetrated deep into academia. \"In the late nineteenth and early twentieth centuries in the United States and England, the ideal form of poetry reading was formal, dramatic recital, taught through elocution training and sometimes used, misleadingly, to demonstrate literacy\" (MacArthur 41). "
+          "text": " Marit J. MacArthur argues for a link between the often neutral, drab, and otherwise monotonous voice given to poetry readings, and the anti-expressivist ritual readings of religious churches. \"In an academic lecture, as in a poetry reading, an understated manner of speaking may aim to focus the audience's attention on the subject matter at hand--the way that a religious ritual intends to focus attention on a sacred text\" (MacArthur 39). A large factor in their similarities is the \"...avoidance of theatricality-justified by the implicit belief that an understated style implies sincerity...\" (MacArthur 41). Whether or not the untheatrical readings of religious ritual represented genuine sincerity is up for debate, though it's influences have undoubtedly penetrated deep into secular academia. \"In the late nineteenth and early twentieth centuries in the United States and England, the ideal form of poetry reading was formal, dramatic recital, taught through elocution training and sometimes used, misleadingly, to demonstrate literacy... \"an anticonfessional, even spiritual humility, or skepticism about the coherence of the self—now typifies the reading style of a wide range of academically sponsored contemporary poets\" (MacArthur 41). "
         }
       ]
     },
@@ -27,14 +27,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "I'm not certain if Basinski had religious chants in mind when he strayed from  convention when creating "
+          "text": "I'm not certain if Basinski specifically had religious chants in mind when he strayed from  convention when creating "
         },
         {
           "text": "Heebee Jeebies, ",
           "italic": true
         },
         {
-          "text": "though it was definitely a purposeful break from the status quo of standard poetry readings. Each line is delievered practically before the last one finishes, as if neither speaker can hold back what they are about to say. As MacArthur mentions, \"A neutral reading style approaches literal monotony, and monotony is associated across cultures with chant and the power to invoke the divine, in religious ritual and the performance of sacred Poetry\" (42). Standard, monotone readings imply importance, they demonstrate a gravitas, or at least the expectation of which. I don't believe Basinski is saying his content is not important, rather I believe he implies the opposite. He makes clear it is not the carefully picked words of reciting poets that are important to him, rather it is the perhaps arbitrary, fast-paced conversation of a father and daughter and they express their concerns for one another. "
+          "text": "though it was definitely a purposeful break from the status quo of standard poetry readings. Each line is delivered practically before the last one even finishes, as if neither speaker can hold back what they are about to say. As MacArthur mentions, \"A neutral reading style approaches literal monotony, and monotony is associated across cultures with chant and the power to invoke the divine, in religious ritual and the performance of sacred Poetry\" (42). Standard, monotone readings imply importance, they demonstrate a gravitas, or at least the expectation of which. I don't believe Basinski is saying his content is not important, rather I believe he implies the opposite. He makes clear it is not the carefully picked words of reciting poets that are important to him, rather it is the perhaps arbitrary, fast-paced conversation of a father and daughter and they express their concerns for one another that is true sincerity and importance. "
         }
       ]
     },
@@ -50,7 +50,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Though the form takes a drastic turn from convention, the content itself I find connected to the roots of religious poetry: The Psalms. "
+          "text": "Though the form takes a drastic turn from convention, the content itself I find connected to the roots of religious poetry: The Psalms. Though Basinski quashes the religious influence of form by adopting quick, unclear lines, it seems he adopts the nature of Psalmic wisdom through warning. Psalms 1-1 reads: \"Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;\" In short, a warning against association with bad people. Basinski's third line is \"I don't like that Judy kid, stay away!\" once again a chastising against bad associations. Even in the book of Proverbs, we see content similarities. Proverbs 1, verses 8-10 reads: \"Listen, my son, to your father’s instruction and do not forsake your mother’s teaching. They are a garland to grace your head and a chain to adorn your neck. My son, if sinful men entice you, do not give in to them.\" Once again, we are given a warning against unruly associations, though interestingly, a direct theme of receiving wisdom from one's parents. In fact, nearly every proverb begins with King Solomon preaching about how important it is to listen to one's parents, specifically referring to himself and his own bits of wisdom. A father, continually reminding his child that what he says is indeed wise could be referring to many different relationships, though interestingly it's exactly the relationship we get in Basinski's poem, as he even says \"You'll always need my guidance.\"  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Though Basinski's poem may break from conventions of form, it replicates in it's content the very subject matter that convention originated from. The end result is what you might call an 'Unpsalmic Psalm'. "
         }
       ]
     }
@@ -63,6 +71,6 @@
   "slug": "an-unpsalmic-psalm",
   "created_at": "2025-03-23T16:03:04.925Z",
   "created_by": "Jlubrick",
-  "updated_at": "2025-03-23T16:03:04.925Z",
+  "updated_at": "2025-03-23T17:06:22.713Z",
   "updated_by": "Jlubrick"
 }
