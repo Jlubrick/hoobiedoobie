@@ -76,31 +76,6 @@
       "uuid": "b2442d86-08bc-450f-a518-543e9e52ea93"
     },
     {
-      "start_time": 36,
-      "end_time": 37,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I am grown up"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "1ec0b5f2-d30c-4a81-b44d-ac1559473fba"
-    },
-    {
       "start_time": 39,
       "end_time": 40,
       "annotation": [
