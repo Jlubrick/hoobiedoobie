@@ -1226,31 +1226,6 @@
       "uuid": "9ee03a85-e57a-4c99-85fb-266936f5db14"
     },
     {
-      "start_time": 16,
-      "end_time": 17,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Be home at midnight"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "8b8edc76-291c-4d50-a952-ec7950a66bbe"
-    },
-    {
       "start_time": 18,
       "end_time": 19,
       "annotation": [
