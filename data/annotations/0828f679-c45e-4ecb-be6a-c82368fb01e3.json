@@ -1576,31 +1576,6 @@
       "uuid": "5188dae5-26ad-4d2d-850b-450810f0b995"
     },
     {
-      "start_time": 24,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I am not a kid anymore"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "234701c6-3692-43d7-8406-03296d8a6c4a"
-    },
-    {
       "start_time": 28,
       "end_time": 28,
       "annotation": [
