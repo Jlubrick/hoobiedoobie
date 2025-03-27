@@ -601,31 +601,6 @@
       "uuid": "36ccc1f1-141b-4845-b067-51ce592bc843"
     },
     {
-      "start_time": 21,
-      "end_time": 23,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I can take care of myself"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "b4b89a7f-563b-46db-8c75-2581d37f8c92"
-    },
-    {
       "start_time": 24,
       "end_time": 26,
       "annotation": [
