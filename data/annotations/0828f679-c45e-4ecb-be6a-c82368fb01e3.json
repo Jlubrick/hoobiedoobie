@@ -2601,31 +2601,6 @@
       "uuid": "59b2d20c-72a8-4bb1-8973-56a6da2d9866"
     },
     {
-      "start_time": 47,
-      "end_time": 48,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Slow down"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "c34f1092-d70a-4ad5-889e-defe49fb0b1f"
-    },
-    {
       "start_time": 52,
       "end_time": 53,
       "annotation": [
