@@ -1601,31 +1601,6 @@
       "uuid": "7679bbd3-011b-42b3-8ed8-478d9ec26513"
     },
     {
-      "start_time": 20,
-      "end_time": 21,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'm all grown up"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "a66b7b72-50bc-422b-b61b-388c60dc00b5"
-    },
-    {
       "start_time": 21,
       "end_time": 23,
       "annotation": [
