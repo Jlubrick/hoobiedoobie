@@ -1499,6 +1499,1510 @@
         }
       ],
       "uuid": "e67ebb29-f63a-4c2e-a91a-938741021bd1"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Put your hat on"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "cb6bf5a0-a6dd-417b-8486-5b1ffaf9895a"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tie your shoes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "5407cb6f-3743-467e-834b-43fc94fdf3f8"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't like that Judy kid, stay away"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "f5e0d342-d974-46fe-85c9-f70d9925ab4b"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Be careful"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "27c67108-6773-4c1d-a104-7a1ef968c57b"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slow down"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "33f16a85-cc58-47b1-ae71-e0700bb9b865"
+    },
+    {
+      "start_time": 10,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Get your jacket"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "0b321075-9694-4315-8c0a-274a3a10f3d5"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You forgot?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "df04a69c-7243-4eca-bcbc-19ea39362b1c"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you doing now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "9ee03a85-e57a-4c99-85fb-266936f5db14"
+    },
+    {
+      "start_time": 16,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Be home at midnight"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "8b8edc76-291c-4d50-a952-ec7950a66bbe"
+    },
+    {
+      "start_time": 18,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're still my kid"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "1cc7532c-74ee-48cb-8af5-11b7244feb1e"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're not too old yet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "aa38a8dc-51e5-43ce-a6f1-95d90518e048"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You'll always need my guidance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "ca30a9ac-56eb-479c-8e96-88c663a8497f"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I were you I'd uhh... Just cause' I'm getting a lil older"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "07aa3d2c-4995-432a-a09b-26f5d4bb83a3"
+    },
+    {
+      "start_time": 29,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can still see you though"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "f49ef4c6-6981-4b30-a340-8bbba0a9a2fb"
+    },
+    {
+      "start_time": 30,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm gonna retire soon, I can still cut the greass"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "15ae575c-4846-4cf1-8d81-df01b3bb9ae8"
+    },
+    {
+      "start_time": 35,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can take care of myself"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "2a38e22a-3086-4b0d-a1f0-33bbd4392224"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am grown up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "d44887af-0a01-47dc-b4ae-8950a9b2cd7f"
+    },
+    {
+      "start_time": 39,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not dead yet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "786505e3-2829-4d65-a493-ece5a6b7514d"
+    },
+    {
+      "start_time": 40,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, okay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "54951901-4b62-4e23-a394-1632bd2f96d8"
+    },
+    {
+      "start_time": 42,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I will, I will"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "f382c84c-c399-4cb8-a84c-44d8b56c256d"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I lost my glasses"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "ed298e7a-507a-4450-b025-781340b3f913"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I lost my gloves"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "23cd7cfd-1d59-4c3f-a28a-1566f7ac5789"
+    },
+    {
+      "start_time": 46,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know what I'm doing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "cbf44308-a63d-4749-865e-c637f8dc660f"
+    },
+    {
+      "start_time": 48,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes I have a hankerchief"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "0d6a06ce-ec02-44ff-a809-de68b64b56ef"
+    },
+    {
+      "start_time": 49,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll be home before supper"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "e73e7fcb-7587-486e-bfd9-b278a0cb8572"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll be home on time"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "670970f4-d370-46b4-891b-58a1d1b737cc"
+    },
+    {
+      "start_time": 53,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know, I know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "f9037963-3c78-476b-8462-a996376dba2e"
+    },
+    {
+      "start_time": 55,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leave me alone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Michael"
+        }
+      ],
+      "uuid": "0f82d504-f1ec-48ca-8bbd-68317e776429"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Leave me alone"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "f1f42219-caa6-4e0f-853e-963e69109bd8"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know, I know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "90476f86-b577-46a6-b175-5296404a4844"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll be home on time"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "f4ca53cc-f9c4-48f7-b17b-c7e05a6a22fc"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Sigh*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "1d0a14b7-0b11-45c9-b5c5-786a7b3cf8ad"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "???"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "06d25a84-e2ab-474b-985a-3b5e70c6880f"
+    },
+    {
+      "start_time": 9,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I know it's cold"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "5865a650-1816-4b6a-8a46-0314dde471df"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'll be careful"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "aa7861cc-92be-48c4-853e-93212c12d2c4"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I pay attention"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "d18802f7-6250-4a9c-aff9-c1bae9bb0c7a"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm getting some *uninteligble* "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "5132484c-4513-4c60-9193-d7feb4529027"
+    },
+    {
+      "start_time": 17,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I will, trust me "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "31c97af3-33e6-48f9-91d7-2de994f0cd65"
+    },
+    {
+      "start_time": 19,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay whatever"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "7679bbd3-011b-42b3-8ed8-478d9ec26513"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm all grown up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "a66b7b72-50bc-422b-b61b-388c60dc00b5"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can take care of myself"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "5188dae5-26ad-4d2d-850b-450810f0b995"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am not a kid anymore"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "234701c6-3692-43d7-8406-03296d8a6c4a"
+    },
+    {
+      "start_time": 28,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm gonna go "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "7de55c38-9679-4fa9-a21b-18ef23aa8cbc"
+    },
+    {
+      "start_time": 30,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's my life and I'll run it the way that I want"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "c246fcaf-b364-4ddc-af54-bf4842a1b826"
+    },
+    {
+      "start_time": 33,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're old now"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "c5ff0dcc-08db-487e-96f9-afdd460d7ebf"
+    },
+    {
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Unintelligable* in trouble"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "a5f57bca-9935-4db6-af30-cacba7ea42bc"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Watch out it's night"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "b108228d-9038-4ca2-9909-3430ca45766a"
+    },
+    {
+      "start_time": 38,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Better watch what you're doing "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "b8898ad0-906f-4281-adb9-32d1651f0d19"
+    },
+    {
+      "start_time": 40,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Be home at midnight"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "1b31e550-28b9-4973-90da-2639653b2f12"
+    },
+    {
+      "start_time": 41,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are you doing now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "27129925-3dda-494b-a0c1-d1cd770de249"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Annoyed Huff*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "5ffe3dbd-8286-46f6-8586-665f7f319150"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "dae794c7-76cf-4c7c-a5a3-429c5a74c953"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You forgot?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "59b2d20c-72a8-4bb1-8973-56a6da2d9866"
+    },
+    {
+      "start_time": 47,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Slow down"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "c34f1092-d70a-4ad5-889e-defe49fb0b1f"
+    },
+    {
+      "start_time": 48,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Some kind of noise*"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "4b3d551c-2550-48df-bc66-dd67ceafa633"
+    },
+    {
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "???"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "46b32ef6-14dd-4b53-9c98-bc4b6fcea39a"
+    },
+    {
+      "start_time": 50,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Get your jacket "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "02828782-5017-461e-8ff3-ab8abdee60d5"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stay away from the *uninteligible"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "b723faeb-14ac-4821-9040-28bad43472b4"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tie your shoes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "a9767882-b4e9-485f-9e90-acc2d67350f1"
+    },
+    {
+      "start_time": 54,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Put your hat on"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "Speaker ",
+          "tag": "Natalie"
+        }
+      ],
+      "uuid": "9ea4424e-5f0f-42d3-aa4a-fbab166208c2"
     }
   ],
   "set": "Default",
