@@ -676,31 +676,6 @@
       "uuid": "0b17a183-8e0e-4d8b-b274-8895bd93f984"
     },
     {
-      "start_time": 3,
-      "end_time": 4,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I know, I know"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "ba7dd65b-22fc-4553-9048-d514c5e1cfcd"
-    },
-    {
       "start_time": 5,
       "end_time": 6,
       "annotation": [
