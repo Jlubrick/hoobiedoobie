@@ -676,31 +676,6 @@
       "uuid": "0b17a183-8e0e-4d8b-b274-8895bd93f984"
     },
     {
-      "start_time": 2,
-      "end_time": 3,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Leave me alone"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "b4cfa8cf-5524-44fe-b572-cb672c6d615f"
-    },
-    {
       "start_time": 3,
       "end_time": 4,
       "annotation": [
