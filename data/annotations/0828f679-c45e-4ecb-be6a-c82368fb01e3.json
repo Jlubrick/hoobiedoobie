@@ -51,31 +51,6 @@
       "uuid": "79ca2c4b-071e-441b-9816-97607718212a"
     },
     {
-      "start_time": 12,
-      "end_time": 13,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "You forgot?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "004c64a1-fa67-4c19-b2c2-e9d28d67524d"
-    },
-    {
       "start_time": 14,
       "end_time": 15,
       "annotation": [
