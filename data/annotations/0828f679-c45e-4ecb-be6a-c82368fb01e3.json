@@ -1276,31 +1276,6 @@
       "uuid": "e198c1ab-70d1-4b37-ae80-1575a61203b6"
     },
     {
-      "start_time": 44,
-      "end_time": 45,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Again?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "e7e8ebee-b3f8-41bf-8e86-71c614d0640e"
-    },
-    {
       "start_time": 47,
       "end_time": 48,
       "annotation": [
