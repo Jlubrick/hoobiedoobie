@@ -476,31 +476,6 @@
       "uuid": "f862518c-ee5a-4d12-ac25-9c2e5f910351"
     },
     {
-      "start_time": 40,
-      "end_time": 41,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Be home at midnight"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "78b1c14d-d05e-4259-8d93-694557aa25d9"
-    },
-    {
       "start_time": 41,
       "end_time": 42,
       "annotation": [
