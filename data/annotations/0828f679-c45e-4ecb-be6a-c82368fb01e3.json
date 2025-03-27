@@ -1401,31 +1401,6 @@
       "uuid": "1b31e550-28b9-4973-90da-2639653b2f12"
     },
     {
-      "start_time": 41,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What are you doing now?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "27129925-3dda-494b-a0c1-d1cd770de249"
-    },
-    {
       "start_time": 43,
       "end_time": 44,
       "annotation": [
