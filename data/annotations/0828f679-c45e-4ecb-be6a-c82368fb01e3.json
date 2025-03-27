@@ -626,31 +626,6 @@
       "uuid": "84637aca-f96a-45d9-83a9-d1e80b38778e"
     },
     {
-      "start_time": 17,
-      "end_time": 18,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I will, trust me "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "192a3f90-98c8-4acd-95be-3d489fd9a5d3"
-    },
-    {
       "start_time": 19,
       "end_time": 19,
       "annotation": [
