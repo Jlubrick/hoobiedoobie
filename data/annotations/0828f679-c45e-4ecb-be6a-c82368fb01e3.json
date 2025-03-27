@@ -2726,31 +2726,6 @@
       "uuid": "46b32ef6-14dd-4b53-9c98-bc4b6fcea39a"
     },
     {
-      "start_time": 50,
-      "end_time": 51,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Get your jacket "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "02828782-5017-461e-8ff3-ab8abdee60d5"
-    },
-    {
       "start_time": 52,
       "end_time": 53,
       "annotation": [
