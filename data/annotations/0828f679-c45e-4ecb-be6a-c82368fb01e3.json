@@ -1270,7 +1270,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "*Unintelligable* in trouble"
+              "text": "*"
+            },
+            {
+              "text": "Unintelligible",
+              "italic": true
+            },
+            {
+              "text": "*- in trouble"
             }
           ]
         }
