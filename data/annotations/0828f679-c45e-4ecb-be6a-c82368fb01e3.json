@@ -1451,31 +1451,6 @@
       "uuid": "dc10ea71-fb2f-4fd0-81c5-18725c9509a7"
     },
     {
-      "start_time": 53,
-      "end_time": 54,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Tie your shoes"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "5a053528-f9a3-4cd7-9b99-20885243f4c1"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
