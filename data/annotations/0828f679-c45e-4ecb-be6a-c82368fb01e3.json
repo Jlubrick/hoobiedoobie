@@ -1751,31 +1751,6 @@
       "uuid": "06d25a84-e2ab-474b-985a-3b5e70c6880f"
     },
     {
-      "start_time": 9,
-      "end_time": 11,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Yes, I know it's cold"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "5865a650-1816-4b6a-8a46-0314dde471df"
-    },
-    {
       "start_time": 11,
       "end_time": 12,
       "annotation": [
