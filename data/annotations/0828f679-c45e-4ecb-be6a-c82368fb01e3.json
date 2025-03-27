@@ -576,31 +576,6 @@
       "uuid": "f862518c-ee5a-4d12-ac25-9c2e5f910351"
     },
     {
-      "start_time": 28,
-      "end_time": 28,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'm gonna go "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "2f95dbbb-c63a-4370-b178-b0545a5fc7a9"
-    },
-    {
       "start_time": 30,
       "end_time": 33,
       "annotation": [
