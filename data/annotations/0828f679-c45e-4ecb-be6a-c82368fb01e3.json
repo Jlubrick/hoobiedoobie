@@ -476,31 +476,6 @@
       "uuid": "95f6454c-0460-45e4-8916-1f901cf82d33"
     },
     {
-      "start_time": 43,
-      "end_time": 44,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "*Annoyed Huff*"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "e198c1ab-70d1-4b37-ae80-1575a61203b6"
-    },
-    {
       "start_time": 47,
       "end_time": 48,
       "annotation": [
