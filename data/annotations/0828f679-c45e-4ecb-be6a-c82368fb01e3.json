@@ -1901,31 +1901,6 @@
       "uuid": "ed298e7a-507a-4450-b025-781340b3f913"
     },
     {
-      "start_time": 45,
-      "end_time": 46,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I lost my gloves"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "23cd7cfd-1d59-4c3f-a28a-1566f7ac5789"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
