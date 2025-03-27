@@ -651,31 +651,6 @@
       "uuid": "84637aca-f96a-45d9-83a9-d1e80b38778e"
     },
     {
-      "start_time": 13,
-      "end_time": 14,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I pay attention"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "0e6bb570-b9ee-4a0e-8b19-cac44925cc71"
-    },
-    {
       "start_time": 15,
       "end_time": 16,
       "annotation": [
