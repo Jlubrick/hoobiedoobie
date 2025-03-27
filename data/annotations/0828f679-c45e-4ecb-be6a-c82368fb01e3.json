@@ -551,31 +551,6 @@
       "uuid": "f862518c-ee5a-4d12-ac25-9c2e5f910351"
     },
     {
-      "start_time": 30,
-      "end_time": 33,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "It's my life and I'll run it the way that I want"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "4c7d3794-6a8e-4684-8940-fae74454c063"
-    },
-    {
       "start_time": 33,
       "end_time": 34,
       "annotation": [
