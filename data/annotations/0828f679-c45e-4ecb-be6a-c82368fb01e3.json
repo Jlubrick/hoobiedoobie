@@ -1426,31 +1426,6 @@
       "uuid": "5635ce37-cc64-49e1-81cd-c72f43cbe8fa"
     },
     {
-      "start_time": 52,
-      "end_time": 53,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Stay away from the *uninteligible"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "dc10ea71-fb2f-4fd0-81c5-18725c9509a7"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
