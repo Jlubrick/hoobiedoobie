@@ -601,31 +601,6 @@
       "uuid": "84637aca-f96a-45d9-83a9-d1e80b38778e"
     },
     {
-      "start_time": 19,
-      "end_time": 19,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Okay whatever"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "2ae518a1-719a-4047-a4a2-d9cd794c54e4"
-    },
-    {
       "start_time": 20,
       "end_time": 21,
       "annotation": [
