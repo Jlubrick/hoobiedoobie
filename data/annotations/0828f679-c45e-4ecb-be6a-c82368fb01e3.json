@@ -26,31 +26,6 @@
       "uuid": "0dfd86ef-05d1-4301-8e00-1c983393d305"
     },
     {
-      "start_time": 7,
-      "end_time": 8,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Be careful"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "50ed2cfe-3ce6-4b8a-bd5d-049e12fc70e1"
-    },
-    {
       "start_time": 8,
       "end_time": 10,
       "annotation": [
