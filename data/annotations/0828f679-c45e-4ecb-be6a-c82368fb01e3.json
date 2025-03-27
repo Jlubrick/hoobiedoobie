@@ -2676,31 +2676,6 @@
       "uuid": "4b3d551c-2550-48df-bc66-dd67ceafa633"
     },
     {
-      "start_time": 49,
-      "end_time": 50,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "???"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "46b32ef6-14dd-4b53-9c98-bc4b6fcea39a"
-    },
-    {
       "start_time": 52,
       "end_time": 53,
       "annotation": [
