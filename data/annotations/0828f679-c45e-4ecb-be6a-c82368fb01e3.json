@@ -1976,31 +1976,6 @@
       "uuid": "cbf44308-a63d-4749-865e-c637f8dc660f"
     },
     {
-      "start_time": 48,
-      "end_time": 49,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Yes I have a hankerchief"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "0d6a06ce-ec02-44ff-a809-de68b64b56ef"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
