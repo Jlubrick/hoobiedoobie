@@ -26,31 +26,6 @@
       "uuid": "0dfd86ef-05d1-4301-8e00-1c983393d305"
     },
     {
-      "start_time": 8,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Slow down"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "71f0723c-7ab0-4f25-8315-702bb344c015"
-    },
-    {
       "start_time": 10,
       "end_time": 11,
       "annotation": [
