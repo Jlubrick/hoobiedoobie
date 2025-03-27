@@ -526,31 +526,6 @@
       "uuid": "f862518c-ee5a-4d12-ac25-9c2e5f910351"
     },
     {
-      "start_time": 33,
-      "end_time": 34,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "You're old now"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "da1f3539-7492-41c9-839b-f7c928f2f7b6"
-    },
-    {
       "start_time": 34,
       "end_time": 35,
       "annotation": [
