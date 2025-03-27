@@ -101,31 +101,6 @@
       "uuid": "15233b2a-ec42-4f6e-8b3b-3ffa5f5c3884"
     },
     {
-      "start_time": 40,
-      "end_time": 42,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Okay, okay"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "c052edf4-9e1d-4798-97e4-37e180c4236a"
-    },
-    {
       "start_time": 42,
       "end_time": 43,
       "annotation": [
