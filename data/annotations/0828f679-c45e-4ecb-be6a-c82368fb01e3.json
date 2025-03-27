@@ -26,31 +26,6 @@
       "uuid": "0dfd86ef-05d1-4301-8e00-1c983393d305"
     },
     {
-      "start_time": 4,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I don't like that Judy kid, stay away"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "3d09b539-325b-46f6-954a-5effa69460ac"
-    },
-    {
       "start_time": 7,
       "end_time": 8,
       "annotation": [
