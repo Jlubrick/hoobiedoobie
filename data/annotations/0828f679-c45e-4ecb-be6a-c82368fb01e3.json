@@ -976,31 +976,6 @@
       "uuid": "54951901-4b62-4e23-a394-1632bd2f96d8"
     },
     {
-      "start_time": 42,
-      "end_time": 43,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I will, I will"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "f382c84c-c399-4cb8-a84c-44d8b56c256d"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
