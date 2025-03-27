@@ -76,31 +76,6 @@
       "uuid": "b2442d86-08bc-450f-a518-543e9e52ea93"
     },
     {
-      "start_time": 30,
-      "end_time": 34,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'm gonna retire soon, I can still cut the greass"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "966082a8-c17d-4a61-9517-bf9dbdac3fa9"
-    },
-    {
       "start_time": 35,
       "end_time": 36,
       "annotation": [
