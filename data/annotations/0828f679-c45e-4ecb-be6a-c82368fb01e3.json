@@ -2126,31 +2126,6 @@
       "uuid": "670970f4-d370-46b4-891b-58a1d1b737cc"
     },
     {
-      "start_time": 53,
-      "end_time": 55,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I know, I know"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "f9037963-3c78-476b-8462-a996376dba2e"
-    },
-    {
       "start_time": 55,
       "end_time": 56,
       "annotation": [
