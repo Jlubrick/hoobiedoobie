@@ -626,31 +626,6 @@
       "uuid": "84637aca-f96a-45d9-83a9-d1e80b38778e"
     },
     {
-      "start_time": 15,
-      "end_time": 16,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'm getting some *uninteligble* "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "299cc4b2-086d-4d47-a5c0-2ed44d65d0d7"
-    },
-    {
       "start_time": 17,
       "end_time": 18,
       "annotation": [
