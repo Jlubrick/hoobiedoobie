@@ -2001,31 +2001,6 @@
       "uuid": "0d6a06ce-ec02-44ff-a809-de68b64b56ef"
     },
     {
-      "start_time": 49,
-      "end_time": 51,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'll be home before supper"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "e73e7fcb-7587-486e-bfd9-b278a0cb8572"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
