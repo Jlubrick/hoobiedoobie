@@ -76,31 +76,6 @@
       "uuid": "b2442d86-08bc-450f-a518-543e9e52ea93"
     },
     {
-      "start_time": 24,
-      "end_time": 28,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "If I were you I'd uhh... Just cause' I'm getting a lil older"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "5fef78b6-27b3-4233-a96c-8393ca067973"
-    },
-    {
       "start_time": 29,
       "end_time": 30,
       "annotation": [
