@@ -2026,31 +2026,6 @@
       "uuid": "e73e7fcb-7587-486e-bfd9-b278a0cb8572"
     },
     {
-      "start_time": 52,
-      "end_time": 53,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'll be home on time"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "670970f4-d370-46b4-891b-58a1d1b737cc"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
