@@ -476,31 +476,6 @@
       "uuid": "f862518c-ee5a-4d12-ac25-9c2e5f910351"
     },
     {
-      "start_time": 38,
-      "end_time": 39,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Better watch what you're doing "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "56ec8070-5e96-4bb4-ae52-47df5aadfc1d"
-    },
-    {
       "start_time": 40,
       "end_time": 41,
       "annotation": [
