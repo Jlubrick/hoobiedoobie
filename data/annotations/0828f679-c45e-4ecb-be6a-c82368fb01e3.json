@@ -1476,31 +1476,6 @@
       "uuid": "5a053528-f9a3-4cd7-9b99-20885243f4c1"
     },
     {
-      "start_time": 54,
-      "end_time": 55,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Put your hat on"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "e67ebb29-f63a-4c2e-a91a-938741021bd1"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
