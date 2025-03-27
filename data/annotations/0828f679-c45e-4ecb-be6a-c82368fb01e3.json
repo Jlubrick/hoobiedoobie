@@ -533,7 +533,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I lost my shoes"
+              "text": "I lost my gloves"
             }
           ]
         }
@@ -544,8 +544,8 @@
           "category": "Background"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Michael"
+          "category": "Speaker ",
+          "tag": "Michael "
         }
       ],
       "uuid": "2f09c14b-d421-41f8-89f2-29a57154f506"
