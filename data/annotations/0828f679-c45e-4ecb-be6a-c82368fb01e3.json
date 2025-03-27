@@ -1801,31 +1801,6 @@
       "uuid": "90476f86-b577-46a6-b175-5296404a4844"
     },
     {
-      "start_time": 5,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'll be home on time"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "f4ca53cc-f9c4-48f7-b17b-c7e05a6a22fc"
-    },
-    {
       "start_time": 6,
       "end_time": 7,
       "annotation": [
