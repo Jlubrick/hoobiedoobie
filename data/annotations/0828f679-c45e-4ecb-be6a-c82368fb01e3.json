@@ -1301,31 +1301,6 @@
       "uuid": "33f16a85-cc58-47b1-ae71-e0700bb9b865"
     },
     {
-      "start_time": 10,
-      "end_time": 11,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Get your jacket"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "0b321075-9694-4315-8c0a-274a3a10f3d5"
-    },
-    {
       "start_time": 12,
       "end_time": 13,
       "annotation": [
