@@ -1501,35 +1501,6 @@
       "uuid": "e67ebb29-f63a-4c2e-a91a-938741021bd1"
     },
     {
-      "start_time": 1,
-      "end_time": 2,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Put your hat on"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        },
-        {
-          "tag": "Speech",
-          "category": "Extra-Poetic Sounds"
-        }
-      ],
-      "uuid": "cb6bf5a0-a6dd-417b-8486-5b1ffaf9895a"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
