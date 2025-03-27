@@ -676,31 +676,6 @@
       "uuid": "84637aca-f96a-45d9-83a9-d1e80b38778e"
     },
     {
-      "start_time": 11,
-      "end_time": 12,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'll be careful"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "Speaker ",
-          "tag": "Natalie"
-        }
-      ],
-      "uuid": "89e3132d-135f-4d90-9e3c-c433d45d5947"
-    },
-    {
       "start_time": 13,
       "end_time": 14,
       "annotation": [
