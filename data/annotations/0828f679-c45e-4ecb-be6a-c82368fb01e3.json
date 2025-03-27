@@ -1384,7 +1384,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "*Annoyed Huff*"
+              "text": "*Annoyed Huff*",
+              "italic": true
             }
           ]
         }
