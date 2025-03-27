@@ -1001,31 +1001,6 @@
       "uuid": "d44887af-0a01-47dc-b4ae-8950a9b2cd7f"
     },
     {
-      "start_time": 39,
-      "end_time": 40,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'm not dead yet"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "786505e3-2829-4d65-a493-ece5a6b7514d"
-    },
-    {
       "start_time": 40,
       "end_time": 42,
       "annotation": [
