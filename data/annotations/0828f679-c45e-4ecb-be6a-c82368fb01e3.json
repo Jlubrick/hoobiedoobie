@@ -51,31 +51,6 @@
       "uuid": "79ca2c4b-071e-441b-9816-97607718212a"
     },
     {
-      "start_time": 14,
-      "end_time": 15,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "What are you doing now?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "a2636a59-16be-422a-bb96-00ab579c7466"
-    },
-    {
       "start_time": 16,
       "end_time": 17,
       "annotation": [
