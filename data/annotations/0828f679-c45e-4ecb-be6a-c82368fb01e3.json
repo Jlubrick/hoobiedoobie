@@ -76,31 +76,6 @@
       "uuid": "b2442d86-08bc-450f-a518-543e9e52ea93"
     },
     {
-      "start_time": 29,
-      "end_time": 30,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I can still see you though"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "b8ce0067-a9bd-476c-8b35-45afc565bdfe"
-    },
-    {
       "start_time": 30,
       "end_time": 34,
       "annotation": [
