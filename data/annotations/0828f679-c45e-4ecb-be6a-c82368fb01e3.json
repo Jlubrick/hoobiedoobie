@@ -1008,7 +1008,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "???"
+              "text": "*"
+            },
+            {
+              "text": "unintelligible*  ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
