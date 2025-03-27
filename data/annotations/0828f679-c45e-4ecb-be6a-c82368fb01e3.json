@@ -76,31 +76,6 @@
       "uuid": "b2442d86-08bc-450f-a518-543e9e52ea93"
     },
     {
-      "start_time": 20,
-      "end_time": 21,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "You're not too old yet"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "59d8d1ce-96e0-4044-acd1-731e61f2ad0c"
-    },
-    {
       "start_time": 22,
       "end_time": 24,
       "annotation": [
