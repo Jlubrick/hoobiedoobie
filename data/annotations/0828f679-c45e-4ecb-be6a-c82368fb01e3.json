@@ -1951,31 +1951,6 @@
       "uuid": "23cd7cfd-1d59-4c3f-a28a-1566f7ac5789"
     },
     {
-      "start_time": 46,
-      "end_time": 47,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I know what I'm doing"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "cbf44308-a63d-4749-865e-c637f8dc660f"
-    },
-    {
       "start_time": 2,
       "end_time": 3,
       "annotation": [
