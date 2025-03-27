@@ -76,31 +76,6 @@
       "uuid": "b2442d86-08bc-450f-a518-543e9e52ea93"
     },
     {
-      "start_time": 22,
-      "end_time": 24,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "You'll always need my guidance"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Michael"
-        }
-      ],
-      "uuid": "66aad1fb-2163-4dc7-80e0-398abb9ea4cb"
-    },
-    {
       "start_time": 24,
       "end_time": 28,
       "annotation": [
