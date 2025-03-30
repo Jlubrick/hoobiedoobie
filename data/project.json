@@ -1,1 +1,131 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"Jlubrick","is_private":false,"title":"Parent + Child Heebee Jeebies ","description":"In an unconventional form typical of Basinski's genre bending poetry (both visual, written and performed), Parent + Child Heebee Jeebies is a continual, conversational poem that is performed by Michael Basinski and his daughter Natalie. Though the poem is only a minute long, it contains 60+ lines of short, overlapping dialogue that initially depicts Michael as a protective father expressing his concern's about his daughter's wellbeing and the choices she makes. By around the 24 second mark, the roles of the two characters switch as Basinski is now at the receiving end of Natalie's concerns about his old age. Basinski engages with the similarities between a parent chastising their child, and the kind of care an older parent receives from their own child in their elder years; the mirrored dialogue and similar dispositions of both are in itself a commentary without even delving into the implications of each line. The result is a brief but lasting impression into the uniqueness in how the poem is presented, and raises questions of how read poetry can break it's own conventions to become distinct and evocative. \n\n\n","language":"en","slug":"hoobiedoobie","creator":"Jlubrick","authors":"Jonathan Lubrick","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Background","color":"#ADFFD9"},{"color":"#F7ED78","category":"Form"},{"color":"#88C9F2","category":"Extra-Poetic Sounds"},{"color":"#C195DB","category":"Performance"},{"color":"#F2A7C3","category":"Speaker 2"},{"color":"#A9D69A","category":"Speaker 1"}],"tags":[{"tag":"Transcription","category":"Background"},{"tag":"Context","category":"Background"},{"tag":"Identification","category":"Background"},{"tag":"Definition","category":"Background"},{"tag":"Caesura","category":"Form"},{"tag":"Rhyme","category":"Form"},{"tag":"Meter","category":"Form"},{"tag":"Verse Structure","category":"Form"},{"tag":"Speech","category":"Extra-Poetic Sounds"},{"tag":"Ambient Noise","category":"Extra-Poetic Sounds"},{"tag":"Audience Sounds","category":"Extra-Poetic Sounds"},{"tag":"Technical Sounds","category":"Extra-Poetic Sounds"},{"tag":"Pitch","category":"Performance"},{"tag":"Duration","category":"Performance"},{"tag":"Amplitude","category":"Performance"},{"tag":"Timbre","category":"Performance"},{"tag":"Tempo","category":"Performance"},{"category":"Speaker 2","tag":"Natalie"},{"category":"Speaker 1","tag":"Michael"}]},"created_at":"2025-03-12T19:13:29.638Z","updated_at":"2025-03-30T18:52:42.568Z","generate_pages_site":true},"is_private":false}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "Jlubrick",
+    "is_private": false,
+    "title": "Parent + Child Heebee Jeebies ",
+    "description": "In an unconventional form typical of Basinski's genre bending poetry (both visual, written and performed), Parent + Child Heebee Jeebies is a continual, conversational poem that is performed by Michael Basinski and his daughter Natalie. Though the poem is only a minute long, it contains 60+ lines of short, overlapping dialogue that initially depicts Michael as a protective father expressing his concern's about his daughter's wellbeing and the choices she makes. By around the 24 second mark, the roles of the two characters switch as Basinski is now at the receiving end of Natalie's concerns about his old age. Basinski engages with the similarities between a parent chastising their child, and the kind of care an older parent receives from their own child in their elder years; the mirrored dialogue and similar dispositions of both are in itself a commentary without even delving into the implications of each line. The result is a brief but lasting impression into the uniqueness in how the poem is presented, and raises questions of how read poetry can break it's own conventions to become distinct and evocative. \n\n\n",
+    "language": "en",
+    "slug": "hoobiedoobie",
+    "creator": "Jlubrick",
+    "authors": "Jonathan Lubrick",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "color": "#F7ED78",
+          "category": "Form"
+        },
+        {
+          "color": "#88C9F2",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "color": "#C195DB",
+          "category": "Performance"
+        },
+        {
+          "color": "#F2A7C3",
+          "category": "Speaker 2"
+        },
+        {
+          "color": "#A9D69A",
+          "category": "Speaker 1"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "Speaker 2",
+          "tag": "Natalie"
+        },
+        {
+          "category": "Speaker 1",
+          "tag": "Michael"
+        }
+      ]
+    },
+    "created_at": "2025-03-12T19:13:29.638Z",
+    "updated_at": "2025-03-30T21:12:21.341Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
