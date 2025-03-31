@@ -77,7 +77,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Michael's tone during the lines 'Be careful' and 'Slow down' are quite different than his previous delivieries, as if he is talking to a very infantile child. This gives more context to the disposition Michael has towards Natalie, perhaps seeing her as younger and more inconsiderate than she really is. "
+              "text": "Michael's tone during the lines 'Be careful' and 'Slow down' are quite different than his previous deliveries, as if he is antecedently talking to a very infantile child. This offers more context to the disposition Michael has towards Natalie, perhaps seeing her as younger and more inconsiderate than she really is. "
             }
           ]
         }
@@ -94,6 +94,10 @@
         {
           "tag": "Pitch",
           "category": "Performance"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
         }
       ],
       "uuid": "c29a0bd4-c03a-4348-ae8f-64fdc4ad81d3"
